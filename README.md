@@ -1,2 +1,0 @@
-# HTS
-Health Tech System
